@@ -1,0 +1,17 @@
+body {
+  margin: 100px;
+  display: flex;
+  flex-direction: column;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+table {
+  border: 2px solid black;
+}
+
+#button {
+  width: 150px;
+  color: green;
+  background-color: black;
+}
