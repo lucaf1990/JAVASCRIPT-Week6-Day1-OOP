@@ -9,8 +9,28 @@ table {
   border: 2px solid black;
 }
 
+input {
+  width: 150px;
+  margin: 30px;
+  background-color: rgb(168, 205, 168);
+}
+
 #button {
   width: 150px;
-  color: green;
-  background-color: black;
+  color: rgb(78, 78, 78);
+  background-color: rgb(95, 235, 98);
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
+
+div {
+  display: flex;
+  justify-content: space-around;
+}
+
+p {
+  text-align: center;
 }/*# sourceMappingURL=index.css.map */
