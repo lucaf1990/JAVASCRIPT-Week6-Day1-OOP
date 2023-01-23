@@ -23,3 +23,7 @@ button.onclick = function () {
   tableToFill2.innerHTML = user1.dateOfBirth;
 };
 console.log(user1);
+let y = document.querySelector("div");
+let x = document.createElement("p");
+x.innerText = "Dang bro scrivo anche con JavascRipt ";
+y.appendChild(x);
